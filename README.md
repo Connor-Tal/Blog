@@ -10,3 +10,9 @@ Played around with creating a text adventure game
 
 6/1/22 
 Today I started work on a calculator and random number gen
+
+6/2/22 
+Bug fixed for the calculator
+
+6/3/22
+Adding more fetures and making it more of a data management tool

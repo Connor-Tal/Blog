@@ -16,3 +16,6 @@ Bug fixed for the calculator
 
 6/3/22
 Adding more fetures and making it more of a data management tool
+
+6/4/22
+Worked on psudocode for a new addition hopfully!

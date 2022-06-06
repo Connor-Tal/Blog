@@ -22,3 +22,6 @@ Worked on psudocode for a new addition hopfully!
 
 6/5/22
 Planed a lot of opcoming features and focsed on learing some more to improve what ive already made
+
+6/6/22 
+Added new features to the data managment tool!

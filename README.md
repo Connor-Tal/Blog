@@ -19,3 +19,6 @@ Adding more fetures and making it more of a data management tool
 
 6/4/22
 Worked on psudocode for a new addition hopfully!
+
+6/5/22
+Planed a lot of opcoming features and focsed on learing some more to improve what ive already made

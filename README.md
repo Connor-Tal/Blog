@@ -25,3 +25,9 @@ Planed a lot of opcoming features and focsed on learing some more to improve wha
 
 6/6/22 
 Added new features to the data managment tool!
+
+6/7/22
+Today I worked on bug fixes
+
+6/8/22
+Today I started work on a snake game

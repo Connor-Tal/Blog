@@ -31,3 +31,12 @@ Today I worked on bug fixes
 
 6/8/22
 Today I started work on a snake game
+
+6/9/22 
+Encountered lots of bugs and did not fix them
+
+6/10/22
+Got back into working on the data management tool by adding real words to make searches more percise
+
+6/11/22 
+Attempted to fix bugs in the employee management tool

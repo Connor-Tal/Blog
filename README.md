@@ -40,3 +40,9 @@ Got back into working on the data management tool by adding real words to make s
 
 6/11/22 
 Attempted to fix bugs in the employee management tool
+
+6/12/22 - 6/13/22
+Took a much needed break tested one thing
+
+6/14/22
+Worked on some minor improvments and fixes to the employee managment

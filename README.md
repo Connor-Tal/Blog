@@ -46,3 +46,12 @@ Took a much needed break tested one thing
 
 6/14/22
 Worked on some minor improvments and fixes to the employee managment
+
+6/15/22
+Ran into some unexpected bugs 
+
+6/16/22
+Worked on fixing all the bugs this process could take awhile
+
+6/17/22
+Added a conversion tool to the data managment tool!

@@ -55,3 +55,6 @@ Worked on fixing all the bugs this process could take awhile
 
 6/17/22
 Added a conversion tool to the data managment tool!
+
+6/18/22
+Fixed A LOT of bugs
